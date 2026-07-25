@@ -20,6 +20,7 @@ This file is used by **DMI students** to practice creating a Pull Request (PR).
 
 - **Isaiah Emeka Prestige** — Group <Group Group 5/Number>
 
+<<<<<<< HEAD
 <!-- Add your entry below this line -->
 **Joseph Ilashe Benjamin**  - Group 1
 - **Obianuju Florence Ohawuchi** — Group <Group 5 Name/Number>
@@ -208,3 +209,8 @@ Anand Sreekumar- Udemy course
 Gurubalan - DevOps 1
 Prince O
 Yeshwanth Madineni — Group <Your Group>
+=======
+<!-- Add your entry below this line --
+Isaiah Emeka Prestige Group 2>
+
+>>>>>>> bfe6324 (docs: add my name to student list)
