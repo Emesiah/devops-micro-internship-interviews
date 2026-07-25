@@ -20,5 +20,6 @@ This file is used by **DMI students** to practice creating a Pull Request (PR).
 
 - **Isaiah Emeka Prestige** — Group 5
 
-<!-- Add your entry below this line -->
+<!-- Add your entry below this line --
+Isaiah Emeka Prestige Group 2>
 
